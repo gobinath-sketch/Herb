@@ -1,0 +1,46 @@
+{
+    "plants": [
+        {
+            "id": "1",
+            "name": "Monstera Deliciosa",
+            "scientificName": "Monstera deliciosa",
+            "description": "A popular tropical plant known for its large, glossy leaves with natural holes.",
+            "characteristics": [
+                "Large, glossy leaves",
+                "Natural leaf holes",
+                "Climbing habit",
+                "Tropical origin"
+            ],
+            "modelUrl": "/models/monstera.glb",
+            "audioUrl": "/audio/monstera.mp3"
+        },
+        {
+            "id": "2",
+            "name": "Fiddle Leaf Fig",
+            "scientificName": "Ficus lyrata",
+            "description": "A striking plant with large, violin-shaped leaves that make a bold statement.",
+            "characteristics": [
+                "Large, violin-shaped leaves",
+                "Tree-like growth",
+                "Prefers bright light",
+                "Native to West Africa"
+            ],
+            "modelUrl": "/models/fiddle-leaf.glb",
+            "audioUrl": "/audio/fiddle-leaf.mp3"
+        },
+        {
+            "id": "3",
+            "name": "Snake Plant",
+            "scientificName": "Sansevieria trifasciata",
+            "description": "A hardy, low-maintenance plant with tall, upright leaves that are perfect for beginners.",
+            "characteristics": [
+                "Tall, upright leaves",
+                "Low maintenance",
+                "Air purifying",
+                "Drought tolerant"
+            ],
+            "modelUrl": "/models/snake-plant.glb",
+            "audioUrl": "/audio/snake-plant.mp3"
+        }
+    ]
+}
